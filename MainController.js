@@ -32,7 +32,7 @@
         }
 
         $scope.username = "guybi";
-        $scope.countdown = 14;
+        $scope.countdown = 5;
         startCountdown();
     };
 
